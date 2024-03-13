@@ -40,8 +40,4 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1oOWs2MjMxeXU0aTYzdHVpemNsbHYwNGNkMDR3MTBibmo2Mjk0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWtNFKZWG6fUFe8/giphy.gif"  />
-</div>
 
-###
