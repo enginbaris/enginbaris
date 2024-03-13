@@ -1,9 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Engin Barış
-I'm Frontend Developer
-I've been learning Frontend technologies for last 1 year. And its already become my passion
-🌍  I'm based in Istanbul* 
-🚀  I'm currently working on [React weather app](http://enginbaris.github.io/react-weather/)* 
-🧠  I'm learning React-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Engin Barış===================================================================================================================================I'm Frontend Developer----------------------I've been learning Frontend technologies for last 1 year. And its already become my passion* 🌍  I'm based in Istanbul* 🚀  I'm currently working on [React weather app](http://enginbaris.github.io/react-weather/)* 🧠  I'm learning React-
 
 ### Skills
 
